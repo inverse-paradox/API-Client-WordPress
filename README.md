@@ -1,7 +1,7 @@
 API-Client-WordPress
 ====================
 
-Report any issues to me directly or through the issue tracker and i'll correct them. 
+Report any issues to ryan@inverseparadox.net directly or through the issue tracker and i'll correct them. 
 
 This does not have a kill switch, just 3 dashboard widgets.
 
